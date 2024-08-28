@@ -1,0 +1,35 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+    - name: Update README
+      run: python .github/scripts/update_readme.py
+    - name: Check for changes
+      id: git-check
+      run: |
+        git diff --exit-code || echo "CHANGES_EXIST=true" >> $GITHUB_OUTPUT
+    - name: Commit changes
+      if: steps.git-check.outputs.CHANGES_EXIST == 'true'
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update README.md"
+    - name: Push changes
+      if: steps.git-check.outputs.CHANGES_EXIST == 'true'
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
