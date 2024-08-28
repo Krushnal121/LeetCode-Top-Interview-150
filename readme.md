@@ -38,7 +38,7 @@ The repository is structured as follows:
 | Day | Problem Title | Solution Link |
 |-----|---------------|---------------|
 | 1 | [Merge Sorted Array](001.LeetCode@88_Merge_Sorted_Array/001.LeetCode@88_Merge_Sorted_Array.md) | [Solution](001.LeetCode@88_Merge_Sorted_Array/) |
-| 2 | [Merge Sorted Array](002.LeetCode@88_Merge_Sorted_Array/002.LeetCode@88_Merge_Sorted_Array.md) | [Solution](002.LeetCode@88_Merge_Sorted_Array/) |
+
 
 
 ## 🚀 Getting Started
