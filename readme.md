@@ -34,9 +34,12 @@ The repository is structured as follows:
 
 ## 📈 Progress
 
-| Day | Problem Title                                                                                  | Solution Link                                   |
-|-----|------------------------------------------------------------------------------------------------|-------------------------------------------------|
-| 1   | [Merge Sorted Array](001.LeetCode@88_Merge_Sorted_Array/001.LeetCode@88_Merge_Sorted_Array.md) | [Solution](001.LeetCode@88_Merge_Sorted_Array/) |
+
+| Day | Problem Title | Solution Link |
+|-----|---------------|---------------|
+| 1 | [Merge Sorted Array](001.LeetCode@88_Merge_Sorted_Array/001.LeetCode@88_Merge_Sorted_Array.md) | [Solution](001.LeetCode@88_Merge_Sorted_Array/) |
+| 2 | [Merge Sorted Array](002.LeetCode@88_Merge_Sorted_Array/002.LeetCode@88_Merge_Sorted_Array.md) | [Solution](002.LeetCode@88_Merge_Sorted_Array/) |
+
 
 ## 🚀 Getting Started
 
@@ -62,9 +65,3 @@ This repository is a personal learning journey, but I welcome contributions! Got
 Questions or suggestions? Reach out via GitHub issues.
 
 Happy coding! 🎉
-
-| Day | Problem Title | Solution Link |
-|-----|---------------|---------------|
-| 1 | [Merge Sorted Array](001.LeetCode@88_Merge_Sorted_Array/001.LeetCode@88_Merge_Sorted_Array.md) | [Solution](001.LeetCode@88_Merge_Sorted_Array/) |
-| 2 | [Merge Sorted Array](002.LeetCode@88_Merge_Sorted_Array/002.LeetCode@88_Merge_Sorted_Array.md) | [Solution](002.LeetCode@88_Merge_Sorted_Array/) |
-
