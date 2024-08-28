@@ -1,5 +1,8 @@
 # LeetCode-Top-Interview-150
 
+![LeetCode-Top-Interview-150](https://github.com/user-attachments/assets/ead9f6ea-047f-4260-855a-6a83290552d8)
+
+
 Welcome to the **LeetCode-Top-Interview-150** repository! This project documents my journey of solving one programming problem from LeetCode every day for the next 150 days. Let's code and conquer together! 💻💪
 
 ## 🌟 Introduction
