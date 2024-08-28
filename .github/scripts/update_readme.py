@@ -15,13 +15,13 @@ def generate_table_row(day, problem_id, problem_name, directory):
     return f"| {day} | [{problem_name}]({problem_link}) | [Solution]({solution_link}) |\n"
 
 def update_readme():
-    readme_path = "README.md"
+    readme_path = "readme.md"
     if os.path.exists(readme_path):
         with open(readme_path, 'r') as file:
             readme_content = file.read()
-        print(f"Existing README.md found. Content length: {len(readme_content)}")
+        print(f"Existing readme.md found. Content length: {len(readme_content)}")
     else:
-        print(f"README.md not found. Creating a new file.")
+        print(f"readme.md not found. Creating a new file.")
         readme_content = "# LeetCode SQL 50\n\n"
 
     table_pattern = r'\| Day \| Problem Title \| Solution Link \|\n\|-----\|---------------\|---------------\|\n(.*?)(?=\n\n|\Z)'
@@ -47,9 +47,9 @@ def update_readme():
     if updated_content != readme_content:
         with open(readme_path, 'w') as file:
             file.write(updated_content)
-        print(f"README.md updated successfully. New content length: {len(updated_content)}")
+        print(f"readme.md updated successfully. New content length: {len(updated_content)}")
     else:
-        print("No changes needed in README.md")
+        print("No changes needed in readme.md")
 
 if __name__ == "__main__":
     update_readme()
