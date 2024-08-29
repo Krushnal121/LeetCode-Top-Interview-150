@@ -43,9 +43,6 @@ The repository is structured as follows:
 | 1 | [Merge Sorted Array](001.LeetCode@88_Merge_Sorted_Array/001.LeetCode@88_Merge_Sorted_Array.md) | [Solution](001.LeetCode@88_Merge_Sorted_Array/) |
 | 2 | [Remove Element](002.LeetCode@27_Remove_Element/002.LeetCode@27_Remove_Element.md) | [Solution](002.LeetCode@27_Remove_Element/) |
 
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`. Check out the `notes.md` file for insights into my approach and logic.
