@@ -46,6 +46,7 @@ The repository is structured as follows:
 | 4 | [Remove Duplicates from Sorted Array II](004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II/004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II.md) | [Solution](004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II/) |
 | 5 | [Majority Element](005.LeetCode@169_Majority_Element/005.LeetCode@169_Majority_Element.md) | [Solution](005.LeetCode@169_Majority_Element/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`. Check out the `notes.md` file for insights into my approach and logic.
