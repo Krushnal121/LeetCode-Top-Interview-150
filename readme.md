@@ -47,8 +47,6 @@ The repository is structured as follows:
 | 5 | [Majority Element](005.LeetCode@169_Majority_Element/005.LeetCode@169_Majority_Element.md) | [Solution](005.LeetCode@169_Majority_Element/) |
 | 6 | [Rotate Array](006.LeetCode@189_Rotate_Array/006.LeetCode@189_Rotate_Array.md) | [Solution](006.LeetCode@189_Rotate_Array/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`. Check out the `notes.md` file for insights into my approach and logic.
