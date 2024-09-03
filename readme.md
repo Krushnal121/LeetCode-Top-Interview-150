@@ -46,6 +46,8 @@ The repository is structured as follows:
 | 4 | [Remove Duplicates from Sorted Array II](004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II/004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II.md) | [Solution](004.LeetCode@80_Remove_Duplicates_from_Sorted_Array_II/) |
 | 5 | [Majority Element](005.LeetCode@169_Majority_Element/005.LeetCode@169_Majority_Element.md) | [Solution](005.LeetCode@169_Majority_Element/) |
 | 6 | [Rotate Array](006.LeetCode@189_Rotate_Array/006.LeetCode@189_Rotate_Array.md) | [Solution](006.LeetCode@189_Rotate_Array/) |
+| 7 | [Best Time to Buy and Sell Stock](007.LeetCode@121_Best_Time_to_Buy_and_Sell_Stock/007.LeetCode@121_Best_Time_to_Buy_and_Sell_Stock.md) | [Solution](007.LeetCode@121_Best_Time_to_Buy_and_Sell_Stock/) |
+
 
 
 ## 🚀 Getting Started
