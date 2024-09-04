@@ -49,8 +49,6 @@ The repository is structured as follows:
 | 7 | [Best Time to Buy and Sell Stock](007.LeetCode@121_Best_Time_to_Buy_and_Sell_Stock/007.LeetCode@121_Best_Time_to_Buy_and_Sell_Stock.md) | [Solution](007.LeetCode@121_Best_Time_to_Buy_and_Sell_Stock/) |
 | 8 | [Best Time to Buy and Sell Stock II](008.LeetCode@122_Best_Time_to_Buy_and_Sell_Stock_II/008.LeetCode@122_Best_Time_to_Buy_and_Sell_Stock_II.md) | [Solution](008.LeetCode@122_Best_Time_to_Buy_and_Sell_Stock_II/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`. Check out the `notes.md` file for insights into my approach and logic.
