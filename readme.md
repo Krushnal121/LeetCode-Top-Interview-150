@@ -48,6 +48,8 @@ The repository is structured as follows:
 | 6 | [Rotate Array](006.LeetCode@189_Rotate_Array/006.LeetCode@189_Rotate_Array.md) | [Solution](006.LeetCode@189_Rotate_Array/) |
 | 7 | [Best Time to Buy and Sell Stock](007.LeetCode@121_Best_Time_to_Buy_and_Sell_Stock/007.LeetCode@121_Best_Time_to_Buy_and_Sell_Stock.md) | [Solution](007.LeetCode@121_Best_Time_to_Buy_and_Sell_Stock/) |
 | 8 | [Best Time to Buy and Sell Stock II](008.LeetCode@122_Best_Time_to_Buy_and_Sell_Stock_II/008.LeetCode@122_Best_Time_to_Buy_and_Sell_Stock_II.md) | [Solution](008.LeetCode@122_Best_Time_to_Buy_and_Sell_Stock_II/) |
+| 9 | [Jump Game](009.LeetCode@55_Jump_Game/009.LeetCode@55_Jump_Game.md) | [Solution](009.LeetCode@55_Jump_Game/) |
+
 
 
 ## 🚀 Getting Started
