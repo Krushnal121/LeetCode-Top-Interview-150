@@ -51,6 +51,7 @@ The repository is structured as follows:
 | 9 | [Jump Game](009.LeetCode@55_Jump_Game/009.LeetCode@55_Jump_Game.md) | [Solution](009.LeetCode@55_Jump_Game/) |
 | 10 | [Jump Game II](010.LeetCode@45_Jump_Game_II/010.LeetCode@45_Jump_Game_II.md) | [Solution](010.LeetCode@45_Jump_Game_II/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`. Check out the `notes.md` file for insights into my approach and logic.
