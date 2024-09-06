@@ -54,7 +54,7 @@ The repository is structured as follows:
 
 ## 🚀 Getting Started
 
-To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`. Check out the `notes.md` file for insights into my approach and logic.
+To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
 
 ## 🔗 Get A Copy for yourself !!
 
