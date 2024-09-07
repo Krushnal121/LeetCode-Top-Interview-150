@@ -52,9 +52,6 @@ The repository is structured as follows:
 | 10 | [Jump Game II](010.LeetCode@45_Jump_Game_II/010.LeetCode@45_Jump_Game_II.md) | [Solution](010.LeetCode@45_Jump_Game_II/) |
 | 11 | [H-Index](011.LeetCode@274_H-Index/011.LeetCode@274_H-Index.md) | [Solution](011.LeetCode@274_H-Index/) |
 
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
