@@ -50,6 +50,8 @@ The repository is structured as follows:
 | 8 | [Best Time to Buy and Sell Stock II](008.LeetCode@122_Best_Time_to_Buy_and_Sell_Stock_II/008.LeetCode@122_Best_Time_to_Buy_and_Sell_Stock_II.md) | [Solution](008.LeetCode@122_Best_Time_to_Buy_and_Sell_Stock_II/) |
 | 9 | [Jump Game](009.LeetCode@55_Jump_Game/009.LeetCode@55_Jump_Game.md) | [Solution](009.LeetCode@55_Jump_Game/) |
 | 10 | [Jump Game II](010.LeetCode@45_Jump_Game_II/010.LeetCode@45_Jump_Game_II.md) | [Solution](010.LeetCode@45_Jump_Game_II/) |
+| 11 | [H-Index](011.LeetCode@274_H-Index/011.LeetCode@274_H-Index.md) | [Solution](011.LeetCode@274_H-Index/) |
+
 
 
 
