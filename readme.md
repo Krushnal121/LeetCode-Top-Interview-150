@@ -53,7 +53,6 @@ The repository is structured as follows:
 | 11 | [H-Index](011.LeetCode@274_H-Index/011.LeetCode@274_H-Index.md) | [Solution](011.LeetCode@274_H-Index/) |
 | 12 | [Insert Delete GetRandom O(1)](012.LeetCode@380_Insert_Delete_GetRandom_O(1)/012.LeetCode@380_Insert_Delete_GetRandom_O(1).md) | [Solution](012.LeetCode@380_Insert_Delete_GetRandom_O(1)/) |
 
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
