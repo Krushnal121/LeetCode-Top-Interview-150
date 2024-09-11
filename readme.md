@@ -56,6 +56,7 @@ The repository is structured as follows:
 | 14 | [Gas Station](014.LeetCode@134_Gas_Station/014.LeetCode@134_Gas_Station.md) | [Solution](014.LeetCode@134_Gas_Station/) |
 | 15 | [Candy](015.LeetCode@135_Candy/015.LeetCode@135_Candy.md) | [Solution](015.LeetCode@135_Candy/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
