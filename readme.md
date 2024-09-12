@@ -57,6 +57,7 @@ The repository is structured as follows:
 | 15 | [Candy](015.LeetCode@135_Candy/015.LeetCode@135_Candy.md) | [Solution](015.LeetCode@135_Candy/) |
 | 16 | [Trapping Rain Water](016.LeetCode@42_Trapping_Rain_Water/016.LeetCode@42_Trapping_Rain_Water.md) | [Solution](016.LeetCode@42_Trapping_Rain_Water/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
