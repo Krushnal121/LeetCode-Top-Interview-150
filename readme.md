@@ -58,6 +58,7 @@ The repository is structured as follows:
 | 16 | [Trapping Rain Water](016.LeetCode@42_Trapping_Rain_Water/016.LeetCode@42_Trapping_Rain_Water.md) | [Solution](016.LeetCode@42_Trapping_Rain_Water/) |
 | 17 | [Roman to Integer](017.LeetCode@13_Roman_to_Integer/017.LeetCode@13_Roman_to_Integer.md) | [Solution](017.LeetCode@13_Roman_to_Integer/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
