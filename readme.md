@@ -58,6 +58,8 @@ The repository is structured as follows:
 | 16 | [Trapping Rain Water](016.LeetCode@42_Trapping_Rain_Water/016.LeetCode@42_Trapping_Rain_Water.md) | [Solution](016.LeetCode@42_Trapping_Rain_Water/) |
 | 17 | [Roman to Integer](017.LeetCode@13_Roman_to_Integer/017.LeetCode@13_Roman_to_Integer.md) | [Solution](017.LeetCode@13_Roman_to_Integer/) |
 | 18 | [Integer to Roman](018.LeetCode@12_Integer_to_Roman/018.LeetCode@12_Integer_to_Roman.md) | [Solution](018.LeetCode@12_Integer_to_Roman/) |
+| 19 | [Length of Last Word](019.LeetCode@58_Length_of_Last_Word/019.LeetCode@58_Length_of_Last_Word.md) | [Solution](019.LeetCode@58_Length_of_Last_Word/) |
+
 
 
 ## 🚀 Getting Started
