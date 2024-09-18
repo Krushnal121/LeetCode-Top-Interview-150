@@ -63,6 +63,7 @@ The repository is structured as follows:
 | 21 | [Reverse Words in a String](021.LeetCode@151_Reverse_Words_in_a_String/021.LeetCode@151_Reverse_Words_in_a_String.md) | [Solution](021.LeetCode@151_Reverse_Words_in_a_String/) |
 | 22 | [Zigzag Conversion](022.LeetCode@6_Zigzag_Conversion/022.LeetCode@6_Zigzag_Conversion.md) | [Solution](022.LeetCode@6_Zigzag_Conversion/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
