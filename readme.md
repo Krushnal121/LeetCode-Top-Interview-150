@@ -64,8 +64,6 @@ The repository is structured as follows:
 | 22 | [Zigzag Conversion](022.LeetCode@6_Zigzag_Conversion/022.LeetCode@6_Zigzag_Conversion.md) | [Solution](022.LeetCode@6_Zigzag_Conversion/) |
 | 23 | [Find the Index of the First Occurrence in a String](023.LeetCode@28_Find_the_Index_of_the_First_Occurrence_in_a_String/023.LeetCode@28_Find_the_Index_of_the_First_Occurrence_in_a_String.md) | [Solution](023.LeetCode@28_Find_the_Index_of_the_First_Occurrence_in_a_String/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
