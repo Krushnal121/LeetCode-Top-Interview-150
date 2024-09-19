@@ -62,6 +62,8 @@ The repository is structured as follows:
 | 20 | [Longest Common Prefix](020.LeetCode@14_Longest_Common_Prefix/020.LeetCode@14_Longest_Common_Prefix.md) | [Solution](020.LeetCode@14_Longest_Common_Prefix/) |
 | 21 | [Reverse Words in a String](021.LeetCode@151_Reverse_Words_in_a_String/021.LeetCode@151_Reverse_Words_in_a_String.md) | [Solution](021.LeetCode@151_Reverse_Words_in_a_String/) |
 | 22 | [Zigzag Conversion](022.LeetCode@6_Zigzag_Conversion/022.LeetCode@6_Zigzag_Conversion.md) | [Solution](022.LeetCode@6_Zigzag_Conversion/) |
+| 23 | [Find the Index of the First Occurrence in a String](023.LeetCode@28_Find_the_Index_of_the_First_Occurrence_in_a_String/023.LeetCode@28_Find_the_Index_of_the_First_Occurrence_in_a_String.md) | [Solution](023.LeetCode@28_Find_the_Index_of_the_First_Occurrence_in_a_String/) |
+
 
 
 ## 🚀 Getting Started
