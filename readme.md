@@ -66,6 +66,7 @@ The repository is structured as follows:
 | 24 | [Text Justification](024.LeetCode@68_Text_Justification/024.LeetCode@68_Text_Justification.md) | [Solution](024.LeetCode@68_Text_Justification/) |
 | 25 | [Valid Palindrome](025.LeetCode@125_Valid_Palindrome/025.LeetCode@125_Valid_Palindrome.md) | [Solution](025.LeetCode@125_Valid_Palindrome/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
