@@ -67,8 +67,6 @@ The repository is structured as follows:
 | 25 | [Valid Palindrome](025.LeetCode@125_Valid_Palindrome/025.LeetCode@125_Valid_Palindrome.md) | [Solution](025.LeetCode@125_Valid_Palindrome/) |
 | 26 | [Is Subsequence](026.LeetCode@392_Is_Subsequence/026.LeetCode@392_Is_Subsequence.md) | [Solution](026.LeetCode@392_Is_Subsequence/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
