@@ -66,6 +66,8 @@ The repository is structured as follows:
 | 24 | [Text Justification](024.LeetCode@68_Text_Justification/024.LeetCode@68_Text_Justification.md) | [Solution](024.LeetCode@68_Text_Justification/) |
 | 25 | [Valid Palindrome](025.LeetCode@125_Valid_Palindrome/025.LeetCode@125_Valid_Palindrome.md) | [Solution](025.LeetCode@125_Valid_Palindrome/) |
 | 26 | [Is Subsequence](026.LeetCode@392_Is_Subsequence/026.LeetCode@392_Is_Subsequence.md) | [Solution](026.LeetCode@392_Is_Subsequence/) |
+| 27 | [Two Sum II Input Array Is Sorted](027.LeetCode@167_Two_Sum_II_Input_Array_Is_Sorted/027.LeetCode@167_Two_Sum_II_Input_Array_Is_Sorted.md) | [Solution](027.LeetCode@167_Two_Sum_II_Input_Array_Is_Sorted/) |
+
 
 
 ## 🚀 Getting Started
