@@ -68,6 +68,7 @@ The repository is structured as follows:
 | 26 | [Is Subsequence](026.LeetCode@392_Is_Subsequence/026.LeetCode@392_Is_Subsequence.md) | [Solution](026.LeetCode@392_Is_Subsequence/) |
 | 27 | [Two Sum II Input Array Is Sorted](027.LeetCode@167_Two_Sum_II_Input_Array_Is_Sorted/027.LeetCode@167_Two_Sum_II_Input_Array_Is_Sorted.md) | [Solution](027.LeetCode@167_Two_Sum_II_Input_Array_Is_Sorted/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
