@@ -69,6 +69,7 @@ The repository is structured as follows:
 | 27 | [Two Sum II Input Array Is Sorted](027.LeetCode@167_Two_Sum_II_Input_Array_Is_Sorted/027.LeetCode@167_Two_Sum_II_Input_Array_Is_Sorted.md) | [Solution](027.LeetCode@167_Two_Sum_II_Input_Array_Is_Sorted/) |
 | 28 | [Container With Most Water](028.LeetCode@11_Container_With_Most_Water/028.LeetCode@11_Container_With_Most_Water.md) | [Solution](028.LeetCode@11_Container_With_Most_Water/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
