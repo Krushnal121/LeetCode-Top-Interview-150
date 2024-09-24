@@ -67,6 +67,8 @@ The repository is structured as follows:
 | 25 | [Valid Palindrome](025.LeetCode@125_Valid_Palindrome/025.LeetCode@125_Valid_Palindrome.md) | [Solution](025.LeetCode@125_Valid_Palindrome/) |
 | 26 | [Is Subsequence](026.LeetCode@392_Is_Subsequence/026.LeetCode@392_Is_Subsequence.md) | [Solution](026.LeetCode@392_Is_Subsequence/) |
 | 27 | [Two Sum II Input Array Is Sorted](027.LeetCode@167_Two_Sum_II_Input_Array_Is_Sorted/027.LeetCode@167_Two_Sum_II_Input_Array_Is_Sorted.md) | [Solution](027.LeetCode@167_Two_Sum_II_Input_Array_Is_Sorted/) |
+| 28 | [Container With Most Water](028.LeetCode@11_Container_With_Most_Water/028.LeetCode@11_Container_With_Most_Water.md) | [Solution](028.LeetCode@11_Container_With_Most_Water/) |
+
 
 
 ## 🚀 Getting Started
