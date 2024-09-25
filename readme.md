@@ -70,8 +70,6 @@ The repository is structured as follows:
 | 28 | [Container With Most Water](028.LeetCode@11_Container_With_Most_Water/028.LeetCode@11_Container_With_Most_Water.md) | [Solution](028.LeetCode@11_Container_With_Most_Water/) |
 | 29 | [3Sum](029.LeetCode@15_3Sum/029.LeetCode@15_3Sum.md) | [Solution](029.LeetCode@15_3Sum/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
