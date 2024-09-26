@@ -71,8 +71,6 @@ The repository is structured as follows:
 | 29 | [3Sum](029.LeetCode@15_3Sum/029.LeetCode@15_3Sum.md) | [Solution](029.LeetCode@15_3Sum/) |
 | 30 | [Minimum Size Subarray Sum](030.LeetCode@209_Minimum_Size_Subarray_Sum/030.LeetCode@209_Minimum_Size_Subarray_Sum.md) | [Solution](030.LeetCode@209_Minimum_Size_Subarray_Sum/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
