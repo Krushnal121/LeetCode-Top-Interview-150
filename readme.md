@@ -72,6 +72,7 @@ The repository is structured as follows:
 | 30 | [Minimum Size Subarray Sum](030.LeetCode@209_Minimum_Size_Subarray_Sum/030.LeetCode@209_Minimum_Size_Subarray_Sum.md) | [Solution](030.LeetCode@209_Minimum_Size_Subarray_Sum/) |
 | 31 | [Longest Substring Without Repeating Characters](031.LeetCode@3_Longest_Substring_Without_Repeating_Characters/031.LeetCode@3_Longest_Substring_Without_Repeating_Characters.md) | [Solution](031.LeetCode@3_Longest_Substring_Without_Repeating_Characters/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
