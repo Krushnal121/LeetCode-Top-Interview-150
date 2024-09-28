@@ -73,8 +73,6 @@ The repository is structured as follows:
 | 31 | [Longest Substring Without Repeating Characters](031.LeetCode@3_Longest_Substring_Without_Repeating_Characters/031.LeetCode@3_Longest_Substring_Without_Repeating_Characters.md) | [Solution](031.LeetCode@3_Longest_Substring_Without_Repeating_Characters/) |
 | 32 | [Substring with Concatenation of All Words](032.LeetCode@30_Substring_with_Concatenation_of_All_Words/032.LeetCode@30_Substring_with_Concatenation_of_All_Words.md) | [Solution](032.LeetCode@30_Substring_with_Concatenation_of_All_Words/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
