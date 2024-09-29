@@ -72,6 +72,8 @@ The repository is structured as follows:
 | 30 | [Minimum Size Subarray Sum](030.LeetCode@209_Minimum_Size_Subarray_Sum/030.LeetCode@209_Minimum_Size_Subarray_Sum.md) | [Solution](030.LeetCode@209_Minimum_Size_Subarray_Sum/) |
 | 31 | [Longest Substring Without Repeating Characters](031.LeetCode@3_Longest_Substring_Without_Repeating_Characters/031.LeetCode@3_Longest_Substring_Without_Repeating_Characters.md) | [Solution](031.LeetCode@3_Longest_Substring_Without_Repeating_Characters/) |
 | 32 | [Substring with Concatenation of All Words](032.LeetCode@30_Substring_with_Concatenation_of_All_Words/032.LeetCode@30_Substring_with_Concatenation_of_All_Words.md) | [Solution](032.LeetCode@30_Substring_with_Concatenation_of_All_Words/) |
+| 33 | [Minimum Window Substring](033.LeetCode@76_Minimum_Window_Substring/033.LeetCode@76_Minimum_Window_Substring.md) | [Solution](033.LeetCode@76_Minimum_Window_Substring/) |
+
 
 
 ## 🚀 Getting Started
