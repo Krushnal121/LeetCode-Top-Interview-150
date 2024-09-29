@@ -74,8 +74,6 @@ The repository is structured as follows:
 | 32 | [Substring with Concatenation of All Words](032.LeetCode@30_Substring_with_Concatenation_of_All_Words/032.LeetCode@30_Substring_with_Concatenation_of_All_Words.md) | [Solution](032.LeetCode@30_Substring_with_Concatenation_of_All_Words/) |
 | 33 | [Minimum Window Substring](033.LeetCode@76_Minimum_Window_Substring/033.LeetCode@76_Minimum_Window_Substring.md) | [Solution](033.LeetCode@76_Minimum_Window_Substring/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
