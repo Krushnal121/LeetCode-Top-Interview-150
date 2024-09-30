@@ -75,6 +75,7 @@ The repository is structured as follows:
 | 33 | [Minimum Window Substring](033.LeetCode@76_Minimum_Window_Substring/033.LeetCode@76_Minimum_Window_Substring.md) | [Solution](033.LeetCode@76_Minimum_Window_Substring/) |
 | 34 | [Valid Sudoku](034.LeetCode@36_Valid_Sudoku/034.LeetCode@36_Valid_Sudoku.md) | [Solution](034.LeetCode@36_Valid_Sudoku/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
