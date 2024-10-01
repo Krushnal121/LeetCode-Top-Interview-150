@@ -76,10 +76,6 @@ The repository is structured as follows:
 | 34 | [Valid Sudoku](034.LeetCode@36_Valid_Sudoku/034.LeetCode@36_Valid_Sudoku.md) | [Solution](034.LeetCode@36_Valid_Sudoku/) |
 | 35 | [Spiral Matrix](035.LeetCode@54_Spiral_Matrix/035.LeetCode@54_Spiral_Matrix.md) | [Solution](035.LeetCode@54_Spiral_Matrix/) |
 
-
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
