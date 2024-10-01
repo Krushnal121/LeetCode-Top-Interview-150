@@ -74,6 +74,8 @@ The repository is structured as follows:
 | 32 | [Substring with Concatenation of All Words](032.LeetCode@30_Substring_with_Concatenation_of_All_Words/032.LeetCode@30_Substring_with_Concatenation_of_All_Words.md) | [Solution](032.LeetCode@30_Substring_with_Concatenation_of_All_Words/) |
 | 33 | [Minimum Window Substring](033.LeetCode@76_Minimum_Window_Substring/033.LeetCode@76_Minimum_Window_Substring.md) | [Solution](033.LeetCode@76_Minimum_Window_Substring/) |
 | 34 | [Valid Sudoku](034.LeetCode@36_Valid_Sudoku/034.LeetCode@36_Valid_Sudoku.md) | [Solution](034.LeetCode@36_Valid_Sudoku/) |
+| 35 | [Spiral Matrix](035.LeetCode@54_Spiral_Matrix/035.LeetCode@54_Spiral_Matrix.md) | [Solution](035.LeetCode@54_Spiral_Matrix/) |
+
 
 
 ## 🚀 Getting Started
