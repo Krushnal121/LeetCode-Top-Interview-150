@@ -75,6 +75,8 @@ The repository is structured as follows:
 | 33 | [Minimum Window Substring](033.LeetCode@76_Minimum_Window_Substring/033.LeetCode@76_Minimum_Window_Substring.md) | [Solution](033.LeetCode@76_Minimum_Window_Substring/) |
 | 34 | [Valid Sudoku](034.LeetCode@36_Valid_Sudoku/034.LeetCode@36_Valid_Sudoku.md) | [Solution](034.LeetCode@36_Valid_Sudoku/) |
 | 35 | [Spiral Matrix](035.LeetCode@54_Spiral_Matrix/035.LeetCode@54_Spiral_Matrix.md) | [Solution](035.LeetCode@54_Spiral_Matrix/) |
+| 36 | [Rotate Image](036.LeetCode@48_Rotate_Image/036.LeetCode@48_Rotate_Image.md) | [Solution](036.LeetCode@48_Rotate_Image/) |
+
 
 
 ## 🚀 Getting Started
