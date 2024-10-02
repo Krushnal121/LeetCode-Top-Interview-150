@@ -77,6 +77,7 @@ The repository is structured as follows:
 | 35 | [Spiral Matrix](035.LeetCode@54_Spiral_Matrix/035.LeetCode@54_Spiral_Matrix.md) | [Solution](035.LeetCode@54_Spiral_Matrix/) |
 | 36 | [Rotate Image](036.LeetCode@48_Rotate_Image/036.LeetCode@48_Rotate_Image.md) | [Solution](036.LeetCode@48_Rotate_Image/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
