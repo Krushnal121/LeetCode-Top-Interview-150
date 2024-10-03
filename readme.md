@@ -78,9 +78,6 @@ The repository is structured as follows:
 | 36 | [Rotate Image](036.LeetCode@48_Rotate_Image/036.LeetCode@48_Rotate_Image.md) | [Solution](036.LeetCode@48_Rotate_Image/) |
 | 37 | [Set Matrix Zeroes](037.LeetCode@73_Set_Matrix_Zeroes/037.LeetCode@73_Set_Matrix_Zeroes.md) | [Solution](037.LeetCode@73_Set_Matrix_Zeroes/) |
 
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
