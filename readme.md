@@ -80,6 +80,7 @@ The repository is structured as follows:
 | 38 | [Game of Life](038.LeetCode@289_Game_of_Life/038.LeetCode@289_Game_of_Life.md) | [Solution](038.LeetCode@289_Game_of_Life/) |
 | 39 | [Ransom Note](039.LeetCode@383_Ransom_Note/039.LeetCode@383_Ransom_Note.md) | [Solution](039.LeetCode@383_Ransom_Note/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
