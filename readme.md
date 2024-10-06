@@ -81,6 +81,7 @@ The repository is structured as follows:
 | 39 | [Ransom Note](039.LeetCode@383_Ransom_Note/039.LeetCode@383_Ransom_Note.md) | [Solution](039.LeetCode@383_Ransom_Note/) |
 | 40 | [Isomorphic Strings](040.LeetCode@205_Isomorphic_Strings/040.LeetCode@205_Isomorphic_Strings.md) | [Solution](040.LeetCode@205_Isomorphic_Strings/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
