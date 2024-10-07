@@ -82,6 +82,7 @@ The repository is structured as follows:
 | 40 | [Isomorphic Strings](040.LeetCode@205_Isomorphic_Strings/040.LeetCode@205_Isomorphic_Strings.md) | [Solution](040.LeetCode@205_Isomorphic_Strings/) |
 | 41 | [Word Pattern](041.LeetCode@290_Word_Pattern/041.LeetCode@290_Word_Pattern.md) | [Solution](041.LeetCode@290_Word_Pattern/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
