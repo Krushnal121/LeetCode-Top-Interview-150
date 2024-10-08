@@ -83,8 +83,6 @@ The repository is structured as follows:
 | 41 | [Word Pattern](041.LeetCode@290_Word_Pattern/041.LeetCode@290_Word_Pattern.md) | [Solution](041.LeetCode@290_Word_Pattern/) |
 | 42 | [Valid Anagram](042.LeetCode@242_Valid_Anagram/042.LeetCode@242_Valid_Anagram.md) | [Solution](042.LeetCode@242_Valid_Anagram/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
