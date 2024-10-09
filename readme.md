@@ -84,8 +84,6 @@ The repository is structured as follows:
 | 42 | [Valid Anagram](042.LeetCode@242_Valid_Anagram/042.LeetCode@242_Valid_Anagram.md) | [Solution](042.LeetCode@242_Valid_Anagram/) |
 | 43 | [Group Anagrams](043.LeetCode@49_Group_Anagrams/043.LeetCode@49_Group_Anagrams.md) | [Solution](043.LeetCode@49_Group_Anagrams/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
