@@ -82,6 +82,8 @@ The repository is structured as follows:
 | 40 | [Isomorphic Strings](040.LeetCode@205_Isomorphic_Strings/040.LeetCode@205_Isomorphic_Strings.md) | [Solution](040.LeetCode@205_Isomorphic_Strings/) |
 | 41 | [Word Pattern](041.LeetCode@290_Word_Pattern/041.LeetCode@290_Word_Pattern.md) | [Solution](041.LeetCode@290_Word_Pattern/) |
 | 42 | [Valid Anagram](042.LeetCode@242_Valid_Anagram/042.LeetCode@242_Valid_Anagram.md) | [Solution](042.LeetCode@242_Valid_Anagram/) |
+| 43 | [Group Anagrams](043.LeetCode@49_Group_Anagrams/043.LeetCode@49_Group_Anagrams.md) | [Solution](043.LeetCode@49_Group_Anagrams/) |
+
 
 
 ## 🚀 Getting Started
