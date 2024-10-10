@@ -83,6 +83,8 @@ The repository is structured as follows:
 | 41 | [Word Pattern](041.LeetCode@290_Word_Pattern/041.LeetCode@290_Word_Pattern.md) | [Solution](041.LeetCode@290_Word_Pattern/) |
 | 42 | [Valid Anagram](042.LeetCode@242_Valid_Anagram/042.LeetCode@242_Valid_Anagram.md) | [Solution](042.LeetCode@242_Valid_Anagram/) |
 | 43 | [Group Anagrams](043.LeetCode@49_Group_Anagrams/043.LeetCode@49_Group_Anagrams.md) | [Solution](043.LeetCode@49_Group_Anagrams/) |
+| 44 | [Two Sum](044.LeetCode@1_Two_Sum/044.LeetCode@1_Two_Sum.md) | [Solution](044.LeetCode@1_Two_Sum/) |
+
 
 
 ## 🚀 Getting Started
