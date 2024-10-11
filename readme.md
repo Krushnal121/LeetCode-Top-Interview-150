@@ -86,6 +86,7 @@ The repository is structured as follows:
 | 44 | [Two Sum](044.LeetCode@1_Two_Sum/044.LeetCode@1_Two_Sum.md) | [Solution](044.LeetCode@1_Two_Sum/) |
 | 45 | [Happy Number](045.LeetCode@202_Happy_Number/045.LeetCode@202_Happy_Number.md) | [Solution](045.LeetCode@202_Happy_Number/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
