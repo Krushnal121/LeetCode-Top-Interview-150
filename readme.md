@@ -85,6 +85,8 @@ The repository is structured as follows:
 | 43 | [Group Anagrams](043.LeetCode@49_Group_Anagrams/043.LeetCode@49_Group_Anagrams.md) | [Solution](043.LeetCode@49_Group_Anagrams/) |
 | 44 | [Two Sum](044.LeetCode@1_Two_Sum/044.LeetCode@1_Two_Sum.md) | [Solution](044.LeetCode@1_Two_Sum/) |
 | 45 | [Happy Number](045.LeetCode@202_Happy_Number/045.LeetCode@202_Happy_Number.md) | [Solution](045.LeetCode@202_Happy_Number/) |
+| 46 | [Contains Duplicate II](046.LeetCode@219_Contains_Duplicate_II/046.LeetCode@219_Contains_Duplicate_II.md) | [Solution](046.LeetCode@219_Contains_Duplicate_II/) |
+
 
 
 ## 🚀 Getting Started
