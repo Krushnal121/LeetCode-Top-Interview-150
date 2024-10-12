@@ -87,8 +87,6 @@ The repository is structured as follows:
 | 45 | [Happy Number](045.LeetCode@202_Happy_Number/045.LeetCode@202_Happy_Number.md) | [Solution](045.LeetCode@202_Happy_Number/) |
 | 46 | [Contains Duplicate II](046.LeetCode@219_Contains_Duplicate_II/046.LeetCode@219_Contains_Duplicate_II.md) | [Solution](046.LeetCode@219_Contains_Duplicate_II/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
