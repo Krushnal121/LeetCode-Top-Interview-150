@@ -89,8 +89,6 @@ The repository is structured as follows:
 | 47 | [Longest Consecutive Sequence](047.LeetCode@128_Longest_Consecutive_Sequence/047.LeetCode@128_Longest_Consecutive_Sequence.md) | [Solution](047.LeetCode@128_Longest_Consecutive_Sequence/) |
 | 48 | [Summary Ranges](048.LeetCode@228_Summary_Ranges/048.LeetCode@228_Summary_Ranges.md) | [Solution](048.LeetCode@228_Summary_Ranges/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
