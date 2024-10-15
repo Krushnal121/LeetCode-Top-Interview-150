@@ -90,8 +90,6 @@ The repository is structured as follows:
 | 48 | [Summary Ranges](048.LeetCode@228_Summary_Ranges/048.LeetCode@228_Summary_Ranges.md) | [Solution](048.LeetCode@228_Summary_Ranges/) |
 | 49 | [Merge Intervals](049.LeetCode@56_Merge_Intervals/049.LeetCode@56_Merge_Intervals.md) | [Solution](049.LeetCode@56_Merge_Intervals/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
