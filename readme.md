@@ -91,6 +91,7 @@ The repository is structured as follows:
 | 49 | [Merge Intervals](049.LeetCode@56_Merge_Intervals/049.LeetCode@56_Merge_Intervals.md) | [Solution](049.LeetCode@56_Merge_Intervals/) |
 | 50 | [Insert Interval](050.LeetCode@57_Insert_Interval/050.LeetCode@57_Insert_Interval.md) | [Solution](050.LeetCode@57_Insert_Interval/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
