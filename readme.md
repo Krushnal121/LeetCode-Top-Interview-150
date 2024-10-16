@@ -89,6 +89,8 @@ The repository is structured as follows:
 | 47 | [Longest Consecutive Sequence](047.LeetCode@128_Longest_Consecutive_Sequence/047.LeetCode@128_Longest_Consecutive_Sequence.md) | [Solution](047.LeetCode@128_Longest_Consecutive_Sequence/) |
 | 48 | [Summary Ranges](048.LeetCode@228_Summary_Ranges/048.LeetCode@228_Summary_Ranges.md) | [Solution](048.LeetCode@228_Summary_Ranges/) |
 | 49 | [Merge Intervals](049.LeetCode@56_Merge_Intervals/049.LeetCode@56_Merge_Intervals.md) | [Solution](049.LeetCode@56_Merge_Intervals/) |
+| 50 | [Insert Interval](050.LeetCode@57_Insert_Interval/050.LeetCode@57_Insert_Interval.md) | [Solution](050.LeetCode@57_Insert_Interval/) |
+
 
 
 ## 🚀 Getting Started
