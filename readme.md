@@ -92,8 +92,6 @@ The repository is structured as follows:
 | 50 | [Insert Interval](050.LeetCode@57_Insert_Interval/050.LeetCode@57_Insert_Interval.md) | [Solution](050.LeetCode@57_Insert_Interval/) |
 | 51 | [Minimum Number of Arrows to Burst Balloons](051.LeetCode@452_Minimum_Number_of_Arrows_to_Burst_Balloons/051.LeetCode@452_Minimum_Number_of_Arrows_to_Burst_Balloons.md) | [Solution](051.LeetCode@452_Minimum_Number_of_Arrows_to_Burst_Balloons/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
