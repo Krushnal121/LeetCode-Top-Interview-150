@@ -91,6 +91,8 @@ The repository is structured as follows:
 | 49 | [Merge Intervals](049.LeetCode@56_Merge_Intervals/049.LeetCode@56_Merge_Intervals.md) | [Solution](049.LeetCode@56_Merge_Intervals/) |
 | 50 | [Insert Interval](050.LeetCode@57_Insert_Interval/050.LeetCode@57_Insert_Interval.md) | [Solution](050.LeetCode@57_Insert_Interval/) |
 | 51 | [Minimum Number of Arrows to Burst Balloons](051.LeetCode@452_Minimum_Number_of_Arrows_to_Burst_Balloons/051.LeetCode@452_Minimum_Number_of_Arrows_to_Burst_Balloons.md) | [Solution](051.LeetCode@452_Minimum_Number_of_Arrows_to_Burst_Balloons/) |
+| 52 | [Valid Parentheses](052.LeetCode@20_Valid_Parentheses/052.LeetCode@20_Valid_Parentheses.md) | [Solution](052.LeetCode@20_Valid_Parentheses/) |
+
 
 
 ## 🚀 Getting Started
