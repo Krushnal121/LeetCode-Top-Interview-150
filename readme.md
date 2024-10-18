@@ -93,6 +93,7 @@ The repository is structured as follows:
 | 51 | [Minimum Number of Arrows to Burst Balloons](051.LeetCode@452_Minimum_Number_of_Arrows_to_Burst_Balloons/051.LeetCode@452_Minimum_Number_of_Arrows_to_Burst_Balloons.md) | [Solution](051.LeetCode@452_Minimum_Number_of_Arrows_to_Burst_Balloons/) |
 | 52 | [Valid Parentheses](052.LeetCode@20_Valid_Parentheses/052.LeetCode@20_Valid_Parentheses.md) | [Solution](052.LeetCode@20_Valid_Parentheses/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
