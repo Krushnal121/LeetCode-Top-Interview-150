@@ -94,8 +94,6 @@ The repository is structured as follows:
 | 52 | [Valid Parentheses](052.LeetCode@20_Valid_Parentheses/052.LeetCode@20_Valid_Parentheses.md) | [Solution](052.LeetCode@20_Valid_Parentheses/) |
 | 53 | [Simplify Path](053.LeetCode@71_Simplify_Path/053.LeetCode@71_Simplify_Path.md) | [Solution](053.LeetCode@71_Simplify_Path/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
