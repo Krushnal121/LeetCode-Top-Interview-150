@@ -93,6 +93,8 @@ The repository is structured as follows:
 | 51 | [Minimum Number of Arrows to Burst Balloons](051.LeetCode@452_Minimum_Number_of_Arrows_to_Burst_Balloons/051.LeetCode@452_Minimum_Number_of_Arrows_to_Burst_Balloons.md) | [Solution](051.LeetCode@452_Minimum_Number_of_Arrows_to_Burst_Balloons/) |
 | 52 | [Valid Parentheses](052.LeetCode@20_Valid_Parentheses/052.LeetCode@20_Valid_Parentheses.md) | [Solution](052.LeetCode@20_Valid_Parentheses/) |
 | 53 | [Simplify Path](053.LeetCode@71_Simplify_Path/053.LeetCode@71_Simplify_Path.md) | [Solution](053.LeetCode@71_Simplify_Path/) |
+| 54 | [Min Stack](054.LeetCode@155_Min_Stack/054.LeetCode@155_Min_Stack.md) | [Solution](054.LeetCode@155_Min_Stack/) |
+
 
 
 ## 🚀 Getting Started
