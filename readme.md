@@ -95,8 +95,6 @@ The repository is structured as follows:
 | 53 | [Simplify Path](053.LeetCode@71_Simplify_Path/053.LeetCode@71_Simplify_Path.md) | [Solution](053.LeetCode@71_Simplify_Path/) |
 | 54 | [Min Stack](054.LeetCode@155_Min_Stack/054.LeetCode@155_Min_Stack.md) | [Solution](054.LeetCode@155_Min_Stack/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
