@@ -96,6 +96,8 @@ The repository is structured as follows:
 | 54 | [Min Stack](054.LeetCode@155_Min_Stack/054.LeetCode@155_Min_Stack.md) | [Solution](054.LeetCode@155_Min_Stack/) |
 | 55 | [Evaluate Reverse Polish Notation](055.LeetCode@150_Evaluate_Reverse_Polish_Notation/055.LeetCode@150_Evaluate_Reverse_Polish_Notation.md) | [Solution](055.LeetCode@150_Evaluate_Reverse_Polish_Notation/) |
 | 56 | [Basic Calculator](056.LeetCode@224_Basic_Calculator/056.LeetCode@224_Basic_Calculator.md) | [Solution](056.LeetCode@224_Basic_Calculator/) |
+| 57 | [Linked List Cycle](057.LeetCode@141_Linked_List_Cycle/057.LeetCode@141_Linked_List_Cycle.md) | [Solution](057.LeetCode@141_Linked_List_Cycle/) |
+
 
 
 ## 🚀 Getting Started
