@@ -99,6 +99,7 @@ The repository is structured as follows:
 | 57 | [Linked List Cycle](057.LeetCode@141_Linked_List_Cycle/057.LeetCode@141_Linked_List_Cycle.md) | [Solution](057.LeetCode@141_Linked_List_Cycle/) |
 | 58 | [Add Two Numbers](058.LeetCode@2_Add_Two_Numbers/058.LeetCode@2_Add_Two_Numbers.md) | [Solution](058.LeetCode@2_Add_Two_Numbers/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
