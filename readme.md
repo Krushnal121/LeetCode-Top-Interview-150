@@ -101,9 +101,6 @@ The repository is structured as follows:
 | 59 | [Merge Two Sorted Lists](059.LeetCode@21_Merge_Two_Sorted_Lists/059.LeetCode@21_Merge_Two_Sorted_Lists.md) | [Solution](059.LeetCode@21_Merge_Two_Sorted_Lists/) |
 | 60 | [Copy List with Random Pointer](060.LeetCode@138_Copy_List_with_Random_Pointer/060.LeetCode@138_Copy_List_with_Random_Pointer.md) | [Solution](060.LeetCode@138_Copy_List_with_Random_Pointer/) |
 
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
