@@ -100,6 +100,8 @@ The repository is structured as follows:
 | 58 | [Add Two Numbers](058.LeetCode@2_Add_Two_Numbers/058.LeetCode@2_Add_Two_Numbers.md) | [Solution](058.LeetCode@2_Add_Two_Numbers/) |
 | 59 | [Merge Two Sorted Lists](059.LeetCode@21_Merge_Two_Sorted_Lists/059.LeetCode@21_Merge_Two_Sorted_Lists.md) | [Solution](059.LeetCode@21_Merge_Two_Sorted_Lists/) |
 | 60 | [Copy List with Random Pointer](060.LeetCode@138_Copy_List_with_Random_Pointer/060.LeetCode@138_Copy_List_with_Random_Pointer.md) | [Solution](060.LeetCode@138_Copy_List_with_Random_Pointer/) |
+| 61 | [Reverse Linked List II](061.LeetCode@92_Reverse_Linked_List_II/061.LeetCode@92_Reverse_Linked_List_II.md) | [Solution](061.LeetCode@92_Reverse_Linked_List_II/) |
+
 
 
 ## 🚀 Getting Started
