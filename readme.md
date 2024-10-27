@@ -102,9 +102,6 @@ The repository is structured as follows:
 | 60 | [Copy List with Random Pointer](060.LeetCode@138_Copy_List_with_Random_Pointer/060.LeetCode@138_Copy_List_with_Random_Pointer.md) | [Solution](060.LeetCode@138_Copy_List_with_Random_Pointer/) |
 | 61 | [Reverse Linked List II](061.LeetCode@92_Reverse_Linked_List_II/061.LeetCode@92_Reverse_Linked_List_II.md) | [Solution](061.LeetCode@92_Reverse_Linked_List_II/) |
 
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
