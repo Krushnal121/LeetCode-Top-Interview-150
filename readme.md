@@ -101,6 +101,8 @@ The repository is structured as follows:
 | 59 | [Merge Two Sorted Lists](059.LeetCode@21_Merge_Two_Sorted_Lists/059.LeetCode@21_Merge_Two_Sorted_Lists.md) | [Solution](059.LeetCode@21_Merge_Two_Sorted_Lists/) |
 | 60 | [Copy List with Random Pointer](060.LeetCode@138_Copy_List_with_Random_Pointer/060.LeetCode@138_Copy_List_with_Random_Pointer.md) | [Solution](060.LeetCode@138_Copy_List_with_Random_Pointer/) |
 | 61 | [Reverse Linked List II](061.LeetCode@92_Reverse_Linked_List_II/061.LeetCode@92_Reverse_Linked_List_II.md) | [Solution](061.LeetCode@92_Reverse_Linked_List_II/) |
+| 62 | [Reverse Nodes in k-Group](062.LeetCode@25_Reverse_Nodes_in_k-Group/062.LeetCode@25_Reverse_Nodes_in_k-Group.md) | [Solution](062.LeetCode@25_Reverse_Nodes_in_k-Group/) |
+
 
 
 ## 🚀 Getting Started
