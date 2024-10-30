@@ -103,6 +103,8 @@ The repository is structured as follows:
 | 61 | [Reverse Linked List II](061.LeetCode@92_Reverse_Linked_List_II/061.LeetCode@92_Reverse_Linked_List_II.md) | [Solution](061.LeetCode@92_Reverse_Linked_List_II/) |
 | 62 | [Reverse Nodes in k-Group](062.LeetCode@25_Reverse_Nodes_in_k-Group/062.LeetCode@25_Reverse_Nodes_in_k-Group.md) | [Solution](062.LeetCode@25_Reverse_Nodes_in_k-Group/) |
 | 63 | [Remove Nth Node From End of List](063.LeetCode@19_Remove_Nth_Node_From_End_of_List/063.LeetCode@19_Remove_Nth_Node_From_End_of_List.md) | [Solution](063.LeetCode@19_Remove_Nth_Node_From_End_of_List/) |
+| 64 | [Remove Duplicates from Sorted List II](064.LeetCode@82_Remove_Duplicates_from_Sorted_List_II/064.LeetCode@82_Remove_Duplicates_from_Sorted_List_II.md) | [Solution](064.LeetCode@82_Remove_Duplicates_from_Sorted_List_II/) |
+
 
 ## 🚀 Getting Started
 
