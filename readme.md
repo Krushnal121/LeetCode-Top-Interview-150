@@ -108,6 +108,7 @@ The repository is structured as follows:
 
 
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
