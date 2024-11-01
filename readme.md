@@ -107,6 +107,7 @@ The repository is structured as follows:
 | 65 | [Rotate List](065.LeetCode@61_Rotate_List/065.LeetCode@61_Rotate_List.md) | [Solution](065.LeetCode@61_Rotate_List/) |
 | 66 | [Partition List](066.LeetCode@86_Partition_List/066.LeetCode@86_Partition_List.md) | [Solution](066.LeetCode@86_Partition_List/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
