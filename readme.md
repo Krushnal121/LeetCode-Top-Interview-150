@@ -108,8 +108,6 @@ The repository is structured as follows:
 | 66 | [Partition List](066.LeetCode@86_Partition_List/066.LeetCode@86_Partition_List.md) | [Solution](066.LeetCode@86_Partition_List/) |
 | 67 | [LRU Cache](067.LeetCode@146_LRU_Cache/067.LeetCode@146_LRU_Cache.md) | [Solution](067.LeetCode@146_LRU_Cache/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
