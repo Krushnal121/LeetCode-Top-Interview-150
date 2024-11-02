@@ -106,6 +106,8 @@ The repository is structured as follows:
 | 64 | [Remove Duplicates from Sorted List II](064.LeetCode@82_Remove_Duplicates_from_Sorted_List_II/064.LeetCode@82_Remove_Duplicates_from_Sorted_List_II.md) | [Solution](064.LeetCode@82_Remove_Duplicates_from_Sorted_List_II/) |
 | 65 | [Rotate List](065.LeetCode@61_Rotate_List/065.LeetCode@61_Rotate_List.md) | [Solution](065.LeetCode@61_Rotate_List/) |
 | 66 | [Partition List](066.LeetCode@86_Partition_List/066.LeetCode@86_Partition_List.md) | [Solution](066.LeetCode@86_Partition_List/) |
+| 67 | [LRU Cache](067.LeetCode@146_LRU_Cache/067.LeetCode@146_LRU_Cache.md) | [Solution](067.LeetCode@146_LRU_Cache/) |
+
 
 
 ## 🚀 Getting Started
