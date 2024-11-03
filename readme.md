@@ -109,6 +109,7 @@ The repository is structured as follows:
 | 67 | [LRU Cache](067.LeetCode@146_LRU_Cache/067.LeetCode@146_LRU_Cache.md) | [Solution](067.LeetCode@146_LRU_Cache/) |
 | 68 | [Maximum Depth of Binary Tree](068.LeetCode@104_Maximum_Depth_of_Binary_Tree/068.LeetCode@104_Maximum_Depth_of_Binary_Tree.md) | [Solution](068.LeetCode@104_Maximum_Depth_of_Binary_Tree/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
