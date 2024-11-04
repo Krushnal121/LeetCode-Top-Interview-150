@@ -108,6 +108,8 @@ The repository is structured as follows:
 | 66 | [Partition List](066.LeetCode@86_Partition_List/066.LeetCode@86_Partition_List.md) | [Solution](066.LeetCode@86_Partition_List/) |
 | 67 | [LRU Cache](067.LeetCode@146_LRU_Cache/067.LeetCode@146_LRU_Cache.md) | [Solution](067.LeetCode@146_LRU_Cache/) |
 | 68 | [Maximum Depth of Binary Tree](068.LeetCode@104_Maximum_Depth_of_Binary_Tree/068.LeetCode@104_Maximum_Depth_of_Binary_Tree.md) | [Solution](068.LeetCode@104_Maximum_Depth_of_Binary_Tree/) |
+| 69 | [Same Tree](069.LeetCode@100_Same_Tree/069.LeetCode@100_Same_Tree.md) | [Solution](069.LeetCode@100_Same_Tree/) |
+
 
 
 ## 🚀 Getting Started
