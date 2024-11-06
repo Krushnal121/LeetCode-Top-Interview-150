@@ -112,6 +112,7 @@ The repository is structured as follows:
 | 70 | [Invert Binary Tree](070.LeetCode@226_Invert_Binary_Tree/070.LeetCode@226_Invert_Binary_Tree.md) | [Solution](070.LeetCode@226_Invert_Binary_Tree/) |
 | 71 | [Symmetric Tree](071.LeetCode@101_Symmetric_Tree/071.LeetCode@101_Symmetric_Tree.md) | [Solution](071.LeetCode@101_Symmetric_Tree/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
