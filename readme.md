@@ -110,6 +110,8 @@ The repository is structured as follows:
 | 68 | [Maximum Depth of Binary Tree](068.LeetCode@104_Maximum_Depth_of_Binary_Tree/068.LeetCode@104_Maximum_Depth_of_Binary_Tree.md) | [Solution](068.LeetCode@104_Maximum_Depth_of_Binary_Tree/) |
 | 69 | [Same Tree](069.LeetCode@100_Same_Tree/069.LeetCode@100_Same_Tree.md) | [Solution](069.LeetCode@100_Same_Tree/) |
 | 70 | [Invert Binary Tree](070.LeetCode@226_Invert_Binary_Tree/070.LeetCode@226_Invert_Binary_Tree.md) | [Solution](070.LeetCode@226_Invert_Binary_Tree/) |
+| 71 | [Symmetric Tree](071.LeetCode@101_Symmetric_Tree/071.LeetCode@101_Symmetric_Tree.md) | [Solution](071.LeetCode@101_Symmetric_Tree/) |
+
 
 
 ## 🚀 Getting Started
