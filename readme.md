@@ -114,10 +114,6 @@ The repository is structured as follows:
 | 72 | [Construct Binary Tree from Preorder and Inorder Traversal](072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md) | [Solution](072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/) |
 | 73 | [Construct Binary Tree from Inorder and Postorder Traversal](073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md) | [Solution](073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/) |
 
-
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
