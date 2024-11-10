@@ -116,8 +116,6 @@ The repository is structured as follows:
 | 74 | [Populating Next Right Pointers in Each Node II](074.LeetCode@117_Populating_Next_Right_Pointers_in_Each_Node_II/074.LeetCode@117_Populating_Next_Right_Pointers_in_Each_Node_II.md) | [Solution](074.LeetCode@117_Populating_Next_Right_Pointers_in_Each_Node_II/) |
 | 75 | [Flatten BinaryTree to Linked List](075.LeetCode@114_Flatten_BinaryTree_to_Linked_List/075.LeetCode@114_Flatten_BinaryTree_to_Linked_List.md) | [Solution](075.LeetCode@114_Flatten_BinaryTree_to_Linked_List/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
