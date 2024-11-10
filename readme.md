@@ -113,6 +113,9 @@ The repository is structured as follows:
 | 71 | [Symmetric Tree](071.LeetCode@101_Symmetric_Tree/071.LeetCode@101_Symmetric_Tree.md) | [Solution](071.LeetCode@101_Symmetric_Tree/) |
 | 72 | [Construct Binary Tree from Preorder and Inorder Traversal](072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.md) | [Solution](072.LeetCode@105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/) |
 | 73 | [Construct Binary Tree from Inorder and Postorder Traversal](073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md) | [Solution](073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/) |
+| 74 | [Populating Next Right Pointers in Each Node II](074.LeetCode@117_Populating_Next_Right_Pointers_in_Each_Node_II/074.LeetCode@117_Populating_Next_Right_Pointers_in_Each_Node_II.md) | [Solution](074.LeetCode@117_Populating_Next_Right_Pointers_in_Each_Node_II/) |
+| 75 | [Flatten BinaryTree to Linked List](075.LeetCode@114_Flatten_BinaryTree_to_Linked_List/075.LeetCode@114_Flatten_BinaryTree_to_Linked_List.md) | [Solution](075.LeetCode@114_Flatten_BinaryTree_to_Linked_List/) |
+
 
 
 ## 🚀 Getting Started
