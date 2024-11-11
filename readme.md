@@ -117,11 +117,6 @@ The repository is structured as follows:
 | 75 | [Flatten BinaryTree to Linked List](075.LeetCode@114_Flatten_BinaryTree_to_Linked_List/075.LeetCode@114_Flatten_BinaryTree_to_Linked_List.md) | [Solution](075.LeetCode@114_Flatten_BinaryTree_to_Linked_List/) |
 | 76 | [Path Sum](076.LeetCode@112_Path_Sum/076.LeetCode@112_Path_Sum.md) | [Solution](076.LeetCode@112_Path_Sum/) |
 
-
-
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
