@@ -115,6 +115,8 @@ The repository is structured as follows:
 | 73 | [Construct Binary Tree from Inorder and Postorder Traversal](073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.md) | [Solution](073.LeetCode@106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/) |
 | 74 | [Populating Next Right Pointers in Each Node II](074.LeetCode@117_Populating_Next_Right_Pointers_in_Each_Node_II/074.LeetCode@117_Populating_Next_Right_Pointers_in_Each_Node_II.md) | [Solution](074.LeetCode@117_Populating_Next_Right_Pointers_in_Each_Node_II/) |
 | 75 | [Flatten BinaryTree to Linked List](075.LeetCode@114_Flatten_BinaryTree_to_Linked_List/075.LeetCode@114_Flatten_BinaryTree_to_Linked_List.md) | [Solution](075.LeetCode@114_Flatten_BinaryTree_to_Linked_List/) |
+| 76 | [Path Sum](076.LeetCode@112_Path_Sum/076.LeetCode@112_Path_Sum.md) | [Solution](076.LeetCode@112_Path_Sum/) |
+
 
 
 
