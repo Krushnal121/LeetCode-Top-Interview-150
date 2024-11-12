@@ -118,9 +118,6 @@ The repository is structured as follows:
 | 76 | [Path Sum](076.LeetCode@112_Path_Sum/076.LeetCode@112_Path_Sum.md) | [Solution](076.LeetCode@112_Path_Sum/) |
 | 77 | [Sum Root to Leaf Numbers](077.LeetCode@129_Sum_Root_to_Leaf_Numbers/077.LeetCode@129_Sum_Root_to_Leaf_Numbers.md) | [Solution](077.LeetCode@129_Sum_Root_to_Leaf_Numbers/) |
 
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
