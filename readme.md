@@ -120,9 +120,6 @@ The repository is structured as follows:
 | 78 | [Binary Tree Maximum Path Sum](078.LeetCode@124_Binary_Tree_Maximum_Path_Sum/078.LeetCode@124_Binary_Tree_Maximum_Path_Sum.md) | [Solution](078.LeetCode@124_Binary_Tree_Maximum_Path_Sum/) |
 | 79 | [Binary Search Tree Iterator](079.LeetCode@173_Binary_Search_Tree_Iterator/079.LeetCode@173_Binary_Search_Tree_Iterator.md) | [Solution](079.LeetCode@173_Binary_Search_Tree_Iterator/) |
 
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
