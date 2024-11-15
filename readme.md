@@ -121,9 +121,6 @@ The repository is structured as follows:
 | 79 | [Binary Search Tree Iterator](079.LeetCode@173_Binary_Search_Tree_Iterator/079.LeetCode@173_Binary_Search_Tree_Iterator.md) | [Solution](079.LeetCode@173_Binary_Search_Tree_Iterator/) |
 | 80 | [Count Complete Tree Nodes](080.LeetCode@222_Count_Complete_Tree_Nodes/080.LeetCode@222_Count_Complete_Tree_Nodes.md) | [Solution](080.LeetCode@222_Count_Complete_Tree_Nodes/) |
 
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
