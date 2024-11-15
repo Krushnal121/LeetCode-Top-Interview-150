@@ -119,6 +119,8 @@ The repository is structured as follows:
 | 77 | [Sum Root to Leaf Numbers](077.LeetCode@129_Sum_Root_to_Leaf_Numbers/077.LeetCode@129_Sum_Root_to_Leaf_Numbers.md) | [Solution](077.LeetCode@129_Sum_Root_to_Leaf_Numbers/) |
 | 78 | [Binary Tree Maximum Path Sum](078.LeetCode@124_Binary_Tree_Maximum_Path_Sum/078.LeetCode@124_Binary_Tree_Maximum_Path_Sum.md) | [Solution](078.LeetCode@124_Binary_Tree_Maximum_Path_Sum/) |
 | 79 | [Binary Search Tree Iterator](079.LeetCode@173_Binary_Search_Tree_Iterator/079.LeetCode@173_Binary_Search_Tree_Iterator.md) | [Solution](079.LeetCode@173_Binary_Search_Tree_Iterator/) |
+| 80 | [Count Complete Tree Nodes](080.LeetCode@222_Count_Complete_Tree_Nodes/080.LeetCode@222_Count_Complete_Tree_Nodes.md) | [Solution](080.LeetCode@222_Count_Complete_Tree_Nodes/) |
+
 
 
 ## 🚀 Getting Started
