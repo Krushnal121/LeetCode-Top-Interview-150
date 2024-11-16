@@ -120,6 +120,8 @@ The repository is structured as follows:
 | 78 | [Binary Tree Maximum Path Sum](078.LeetCode@124_Binary_Tree_Maximum_Path_Sum/078.LeetCode@124_Binary_Tree_Maximum_Path_Sum.md) | [Solution](078.LeetCode@124_Binary_Tree_Maximum_Path_Sum/) |
 | 79 | [Binary Search Tree Iterator](079.LeetCode@173_Binary_Search_Tree_Iterator/079.LeetCode@173_Binary_Search_Tree_Iterator.md) | [Solution](079.LeetCode@173_Binary_Search_Tree_Iterator/) |
 | 80 | [Count Complete Tree Nodes](080.LeetCode@222_Count_Complete_Tree_Nodes/080.LeetCode@222_Count_Complete_Tree_Nodes.md) | [Solution](080.LeetCode@222_Count_Complete_Tree_Nodes/) |
+| 81 | [Lowest Common Ancestor of a Binary Tree](081.LeetCode@236_Lowest_Common_Ancestor_of_a_Binary_Tree/081.LeetCode@236_Lowest_Common_Ancestor_of_a_Binary_Tree.md) | [Solution](081.LeetCode@236_Lowest_Common_Ancestor_of_a_Binary_Tree/) |
+
 
 
 ## 🚀 Getting Started
