@@ -124,6 +124,7 @@ The repository is structured as follows:
 | 82 | [Binary Tree Right Side View](082.LeetCode@199_Binary_Tree_Right_Side_View/082.LeetCode@199_Binary_Tree_Right_Side_View.md) | [Solution](082.LeetCode@199_Binary_Tree_Right_Side_View/) |
 | 83 | [Average of Levels in Binary Tree](083.LeetCode@637_Average_of_Levels_in_Binary_Tree/083.LeetCode@637_Average_of_Levels_in_Binary_Tree.md) | [Solution](083.LeetCode@637_Average_of_Levels_in_Binary_Tree/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
