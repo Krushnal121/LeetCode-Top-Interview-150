@@ -123,6 +123,8 @@ The repository is structured as follows:
 | 81 | [Lowest Common Ancestor of a Binary Tree](081.LeetCode@236_Lowest_Common_Ancestor_of_a_Binary_Tree/081.LeetCode@236_Lowest_Common_Ancestor_of_a_Binary_Tree.md) | [Solution](081.LeetCode@236_Lowest_Common_Ancestor_of_a_Binary_Tree/) |
 | 82 | [Binary Tree Right Side View](082.LeetCode@199_Binary_Tree_Right_Side_View/082.LeetCode@199_Binary_Tree_Right_Side_View.md) | [Solution](082.LeetCode@199_Binary_Tree_Right_Side_View/) |
 | 83 | [Average of Levels in Binary Tree](083.LeetCode@637_Average_of_Levels_in_Binary_Tree/083.LeetCode@637_Average_of_Levels_in_Binary_Tree.md) | [Solution](083.LeetCode@637_Average_of_Levels_in_Binary_Tree/) |
+| 84 | [Binary Tree Level Order Traversal](084.LeetCode@102_Binary_Tree_Level_Order_Traversal/084.LeetCode@102_Binary_Tree_Level_Order_Traversal.md) | [Solution](084.LeetCode@102_Binary_Tree_Level_Order_Traversal/) |
+
 
 
 ## 🚀 Getting Started
