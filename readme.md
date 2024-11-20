@@ -124,6 +124,8 @@ The repository is structured as follows:
 | 82 | [Binary Tree Right Side View](082.LeetCode@199_Binary_Tree_Right_Side_View/082.LeetCode@199_Binary_Tree_Right_Side_View.md) | [Solution](082.LeetCode@199_Binary_Tree_Right_Side_View/) |
 | 83 | [Average of Levels in Binary Tree](083.LeetCode@637_Average_of_Levels_in_Binary_Tree/083.LeetCode@637_Average_of_Levels_in_Binary_Tree.md) | [Solution](083.LeetCode@637_Average_of_Levels_in_Binary_Tree/) |
 | 84 | [Binary Tree Level Order Traversal](084.LeetCode@102_Binary_Tree_Level_Order_Traversal/084.LeetCode@102_Binary_Tree_Level_Order_Traversal.md) | [Solution](084.LeetCode@102_Binary_Tree_Level_Order_Traversal/) |
+| 85 | [Binary Tree Zigzag Level Order Traversal](085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal/085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal.md) | [Solution](085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal/) |
+
 
 
 ## 🚀 Getting Started
