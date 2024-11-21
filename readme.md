@@ -127,9 +127,6 @@ The repository is structured as follows:
 | 85 | [Binary Tree Zigzag Level Order Traversal](085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal/085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal.md) | [Solution](085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal/) |
 | 87 | [Minimum Absolute Difference in BST](087.LeetCode@530_Minimum_Absolute_Difference_in_BST/087.LeetCode@530_Minimum_Absolute_Difference_in_BST.md) | [Solution](087.LeetCode@530_Minimum_Absolute_Difference_in_BST/) |
 
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
