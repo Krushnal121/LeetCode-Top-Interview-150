@@ -125,7 +125,7 @@ The repository is structured as follows:
 | 83 | [Average of Levels in Binary Tree](083.LeetCode@637_Average_of_Levels_in_Binary_Tree/083.LeetCode@637_Average_of_Levels_in_Binary_Tree.md) | [Solution](083.LeetCode@637_Average_of_Levels_in_Binary_Tree/) |
 | 84 | [Binary Tree Level Order Traversal](084.LeetCode@102_Binary_Tree_Level_Order_Traversal/084.LeetCode@102_Binary_Tree_Level_Order_Traversal.md) | [Solution](084.LeetCode@102_Binary_Tree_Level_Order_Traversal/) |
 | 85 | [Binary Tree Zigzag Level Order Traversal](085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal/085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal.md) | [Solution](085.LeetCode@103_Binary_Tree_Zigzag_Level_Order_Traversal/) |
-| 87 | [Minimum Absolute Difference in BST](087.LeetCode@530_Minimum_Absolute_Difference_in_BST/087.LeetCode@530_Minimum_Absolute_Difference_in_BST.md) | [Solution](087.LeetCode@530_Minimum_Absolute_Difference_in_BST/) |
+| 87 | [Minimum Absolute Difference in BST](086.LeetCode@530_Minimum_Absolute_Difference_in_BST/086.LeetCode@530_Minimum_Absolute_Difference_in_BST) | [Solution](086.LeetCode@530_Minimum_Absolute_Difference_in_BST/) |
 
 
 ## 🚀 Getting Started
