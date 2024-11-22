@@ -128,10 +128,6 @@ The repository is structured as follows:
 | 86 | [Minimum Absolute Difference in BST](086.LeetCode@530_Minimum_Absolute_Difference_in_BST/086.LeetCode@530_Minimum_Absolute_Difference_in_BST.md) | [Solution](086.LeetCode@530_Minimum_Absolute_Difference_in_BST/) |
 | 87 | [Kth Smallest Element in a BST](087.LeetCode@230_Kth_Smallest_Element_in_a_BST/087.LeetCode@230_Kth_Smallest_Element_in_a_BST.md) | [Solution](087.LeetCode@230_Kth_Smallest_Element_in_a_BST/) |
 
-
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
