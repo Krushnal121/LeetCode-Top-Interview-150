@@ -129,6 +129,7 @@ The repository is structured as follows:
 | 87 | [Kth Smallest Element in a BST](087.LeetCode@230_Kth_Smallest_Element_in_a_BST/087.LeetCode@230_Kth_Smallest_Element_in_a_BST.md) | [Solution](087.LeetCode@230_Kth_Smallest_Element_in_a_BST/) |
 | 88 | [Validate Binary Search Tree](088.LeetCode@98_Validate_Binary_Search_Tree/088.LeetCode@98_Validate_Binary_Search_Tree.md) | [Solution](088.LeetCode@98_Validate_Binary_Search_Tree/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
