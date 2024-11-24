@@ -130,8 +130,6 @@ The repository is structured as follows:
 | 88 | [Validate Binary Search Tree](088.LeetCode@98_Validate_Binary_Search_Tree/088.LeetCode@98_Validate_Binary_Search_Tree.md) | [Solution](088.LeetCode@98_Validate_Binary_Search_Tree/) |
 | 89 | [Number of Islands](089.LeetCode@200_Number_of_Islands/089.LeetCode@200_Number_of_Islands.md) | [Solution](089.LeetCode@200_Number_of_Islands/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
