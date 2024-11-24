@@ -128,6 +128,8 @@ The repository is structured as follows:
 | 86 | [Minimum Absolute Difference in BST](086.LeetCode@530_Minimum_Absolute_Difference_in_BST/086.LeetCode@530_Minimum_Absolute_Difference_in_BST.md) | [Solution](086.LeetCode@530_Minimum_Absolute_Difference_in_BST/) |
 | 87 | [Kth Smallest Element in a BST](087.LeetCode@230_Kth_Smallest_Element_in_a_BST/087.LeetCode@230_Kth_Smallest_Element_in_a_BST.md) | [Solution](087.LeetCode@230_Kth_Smallest_Element_in_a_BST/) |
 | 88 | [Validate Binary Search Tree](088.LeetCode@98_Validate_Binary_Search_Tree/088.LeetCode@98_Validate_Binary_Search_Tree.md) | [Solution](088.LeetCode@98_Validate_Binary_Search_Tree/) |
+| 89 | [Number of Islands](089.LeetCode@200_Number_of_Islands/089.LeetCode@200_Number_of_Islands.md) | [Solution](089.LeetCode@200_Number_of_Islands/) |
+
 
 
 ## 🚀 Getting Started
