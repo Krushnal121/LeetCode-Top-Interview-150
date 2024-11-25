@@ -131,9 +131,6 @@ The repository is structured as follows:
 | 89 | [Number of Islands](089.LeetCode@200_Number_of_Islands/089.LeetCode@200_Number_of_Islands.md) | [Solution](089.LeetCode@200_Number_of_Islands/) |
 | 90 | [Surrounded Regions](090.LeetCode@130_Surrounded_Regions/090.LeetCode@130_Surrounded_Regions.md) | [Solution](090.LeetCode@130_Surrounded_Regions/) |
 
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
