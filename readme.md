@@ -132,6 +132,8 @@ The repository is structured as follows:
 | 90 | [Surrounded Regions](090.LeetCode@130_Surrounded_Regions/090.LeetCode@130_Surrounded_Regions.md) | [Solution](090.LeetCode@130_Surrounded_Regions/) |
 | 91 | [Clone Graph](091.LeetCode@133_Clone_Graph/091.LeetCode@133_Clone_Graph.md) | [Solution](091.LeetCode@133_Clone_Graph/) |
 | 92 | [Evaluate Division](092.LeetCode@399_Evaluate_Division/092.LeetCode@399_Evaluate_Division.md) | [Solution](092.LeetCode@399_Evaluate_Division/) |
+| 93 | [Course Schedule](093.LeetCode@207_Course_Schedule/093.LeetCode@207_Course_Schedule.md) | [Solution](093.LeetCode@207_Course_Schedule/) |
+
 
 
 ## 🚀 Getting Started
