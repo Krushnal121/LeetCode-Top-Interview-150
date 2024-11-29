@@ -135,8 +135,6 @@ The repository is structured as follows:
 | 93 | [Course Schedule](093.LeetCode@207_Course_Schedule/093.LeetCode@207_Course_Schedule.md) | [Solution](093.LeetCode@207_Course_Schedule/) |
 | 94 | [Course Schedule II](094.LeetCode@210_Course_Schedule_II/094.LeetCode@210_Course_Schedule_II.md) | [Solution](094.LeetCode@210_Course_Schedule_II/) |
 
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
