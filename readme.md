@@ -135,6 +135,8 @@ The repository is structured as follows:
 | 93 | [Course Schedule](093.LeetCode@207_Course_Schedule/093.LeetCode@207_Course_Schedule.md) | [Solution](093.LeetCode@207_Course_Schedule/) |
 | 94 | [Course Schedule II](094.LeetCode@210_Course_Schedule_II/094.LeetCode@210_Course_Schedule_II.md) | [Solution](094.LeetCode@210_Course_Schedule_II/) |
 | 95 | [Snakes and Ladders](095.LeetCode@909_Snakes_and_Ladders/095.LeetCode@909_Snakes_and_Ladders.md) | [Solution](095.LeetCode@909_Snakes_and_Ladders/) |
+| 96 | [Minimum Genetic Mutation](096.LeetCode@433_Minimum_Genetic_Mutation/096.LeetCode@433_Minimum_Genetic_Mutation.md) | [Solution](096.LeetCode@433_Minimum_Genetic_Mutation/) |
+
 
 
 
