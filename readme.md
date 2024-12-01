@@ -137,6 +137,7 @@ The repository is structured as follows:
 | 95 | [Snakes and Ladders](095.LeetCode@909_Snakes_and_Ladders/095.LeetCode@909_Snakes_and_Ladders.md) | [Solution](095.LeetCode@909_Snakes_and_Ladders/) |
 | 96 | [Minimum Genetic Mutation](096.LeetCode@433_Minimum_Genetic_Mutation/096.LeetCode@433_Minimum_Genetic_Mutation.md) | [Solution](096.LeetCode@433_Minimum_Genetic_Mutation/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
