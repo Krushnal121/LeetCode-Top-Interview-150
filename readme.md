@@ -137,6 +137,8 @@ The repository is structured as follows:
 | 95 | [Snakes and Ladders](095.LeetCode@909_Snakes_and_Ladders/095.LeetCode@909_Snakes_and_Ladders.md) | [Solution](095.LeetCode@909_Snakes_and_Ladders/) |
 | 96 | [Minimum Genetic Mutation](096.LeetCode@433_Minimum_Genetic_Mutation/096.LeetCode@433_Minimum_Genetic_Mutation.md) | [Solution](096.LeetCode@433_Minimum_Genetic_Mutation/) |
 | 97 | [Word Ladder](097.LeetCode@127_Word_Ladder/097.LeetCode@127_Word_Ladder.md) | [Solution](097.LeetCode@127_Word_Ladder/) |
+| 98 | [Implement Trie](098.LeetCode@208_Implement_Trie/098.LeetCode@208_Implement_Trie.md) | [Solution](098.LeetCode@208_Implement_Trie/) |
+
 
 
 ## 🚀 Getting Started
