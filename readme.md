@@ -139,6 +139,7 @@ The repository is structured as follows:
 | 97 | [Word Ladder](097.LeetCode@127_Word_Ladder/097.LeetCode@127_Word_Ladder.md) | [Solution](097.LeetCode@127_Word_Ladder/) |
 | 98 | [Implement Trie](098.LeetCode@208_Implement_Trie/098.LeetCode@208_Implement_Trie.md) | [Solution](098.LeetCode@208_Implement_Trie/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
