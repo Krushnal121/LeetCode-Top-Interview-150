@@ -140,6 +140,7 @@ The repository is structured as follows:
 | 98 | [Implement Trie](098.LeetCode@208_Implement_Trie/098.LeetCode@208_Implement_Trie.md) | [Solution](098.LeetCode@208_Implement_Trie/) |
 | 99 | [Design Add and Search Words Data Structure](099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure/099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure.md) | [Solution](099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
