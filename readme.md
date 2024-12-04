@@ -138,6 +138,8 @@ The repository is structured as follows:
 | 96 | [Minimum Genetic Mutation](096.LeetCode@433_Minimum_Genetic_Mutation/096.LeetCode@433_Minimum_Genetic_Mutation.md) | [Solution](096.LeetCode@433_Minimum_Genetic_Mutation/) |
 | 97 | [Word Ladder](097.LeetCode@127_Word_Ladder/097.LeetCode@127_Word_Ladder.md) | [Solution](097.LeetCode@127_Word_Ladder/) |
 | 98 | [Implement Trie](098.LeetCode@208_Implement_Trie/098.LeetCode@208_Implement_Trie.md) | [Solution](098.LeetCode@208_Implement_Trie/) |
+| 99 | [Design Add and Search Words Data Structure](099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure/099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure.md) | [Solution](099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure/) |
+
 
 
 ## 🚀 Getting Started
