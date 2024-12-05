@@ -141,9 +141,6 @@ The repository is structured as follows:
 | 99 | [Design Add and Search Words Data Structure](099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure/099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure.md) | [Solution](099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure/) |
 | 100 | [Word Search II](100.LeetCode@212_Word_Search_II/100.LeetCode@212_Word_Search_II.md) | [Solution](100.LeetCode@212_Word_Search_II/) |
 
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
