@@ -142,9 +142,6 @@ The repository is structured as follows:
 | 100 | [Word Search II](100.LeetCode@212_Word_Search_II/100.LeetCode@212_Word_Search_II.md) | [Solution](100.LeetCode@212_Word_Search_II/) |
 | 101 | [Letter Combinations of a Phone Number](101.LeetCode@17_Letter_Combinations_of_a_Phone_Number/101.LeetCode@17_Letter_Combinations_of_a_Phone_Number.md) | [Solution](101.LeetCode@17_Letter_Combinations_of_a_Phone_Number/) |
 
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
