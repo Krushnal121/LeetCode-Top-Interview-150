@@ -140,6 +140,8 @@ The repository is structured as follows:
 | 98 | [Implement Trie](098.LeetCode@208_Implement_Trie/098.LeetCode@208_Implement_Trie.md) | [Solution](098.LeetCode@208_Implement_Trie/) |
 | 99 | [Design Add and Search Words Data Structure](099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure/099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure.md) | [Solution](099.LeetCode@211_Design_Add_and_Search_Words_Data_Structure/) |
 | 100 | [Word Search II](100.LeetCode@212_Word_Search_II/100.LeetCode@212_Word_Search_II.md) | [Solution](100.LeetCode@212_Word_Search_II/) |
+| 101 | [Letter Combinations of a Phone Number](101.LeetCode@17_Letter_Combinations_of_a_Phone_Number/101.LeetCode@17_Letter_Combinations_of_a_Phone_Number.md) | [Solution](101.LeetCode@17_Letter_Combinations_of_a_Phone_Number/) |
+
 
 
 ## 🚀 Getting Started
