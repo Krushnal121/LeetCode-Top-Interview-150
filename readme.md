@@ -143,6 +143,8 @@ The repository is structured as follows:
 | 101 | [Letter Combinations of a Phone Number](101.LeetCode@17_Letter_Combinations_of_a_Phone_Number/101.LeetCode@17_Letter_Combinations_of_a_Phone_Number.md) | [Solution](101.LeetCode@17_Letter_Combinations_of_a_Phone_Number/) |
 | 102 | [Combinations](102.LeetCode@77_Combinations/102.LeetCode@77_Combinations.md) | [Solution](102.LeetCode@77_Combinations/) |
 | 103 | [Permutation](103.LeetCode@46_Permutation/103.LeetCode@46_Permutation.md) | [Solution](103.LeetCode@46_Permutation/) |
+| 104 | [Combination Sum](104.LeetCode@39_Combination_Sum/104.LeetCode@39_Combination_Sum.md) | [Solution](104.LeetCode@39_Combination_Sum/) |
+
 
 
 
