@@ -146,6 +146,8 @@ The repository is structured as follows:
 | 104 | [Combination Sum](104.LeetCode@39_Combination_Sum/104.LeetCode@39_Combination_Sum.md) | [Solution](104.LeetCode@39_Combination_Sum/) |
 | 105 | [N-Queens II](105.LeetCode@52_N-Queens_II/105.LeetCode@52_N-Queens_II.md) | [Solution](105.LeetCode@52_N-Queens_II/) |
 | 106 | [Generate Parentheses](106.LeetCode@22_Generate_Parentheses/106.LeetCode@22_Generate_Parentheses.md) | [Solution](106.LeetCode@22_Generate_Parentheses/) |
+| 107 | [Word Search](107.LeetCode@79_Word_Search/107.LeetCode@79_Word_Search.md) | [Solution](107.LeetCode@79_Word_Search/) |
+
 
 
 
