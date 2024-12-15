@@ -149,6 +149,8 @@ The repository is structured as follows:
 | 107 | [Word Search](107.LeetCode@79_Word_Search/107.LeetCode@79_Word_Search.md) | [Solution](107.LeetCode@79_Word_Search/) |
 | 108 | [Convert Sorted Array to Binary Search Tree](108.LeetCode@108_Convert_Sorted_Array_to_Binary_Search_Tree/108.LeetCode@108_Convert_Sorted_Array_to_Binary_Search_Tree.md) | [Solution](108.LeetCode@108_Convert_Sorted_Array_to_Binary_Search_Tree/) |
 | 109 | [Sort List](109.LeetCode@148_Sort_List/109.LeetCode@148_Sort_List.md) | [Solution](109.LeetCode@148_Sort_List/) |
+| 110 | [Construct Quad Tree](110.LeetCode@427_Construct_Quad_Tree/110.LeetCode@427_Construct_Quad_Tree.md) | [Solution](110.LeetCode@427_Construct_Quad_Tree/) |
+
 
 
 
