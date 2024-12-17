@@ -153,6 +153,7 @@ The repository is structured as follows:
 | 111 | [Merge k Sorted Lists](111.LeetCode@23_Merge_k_Sorted_Lists/111.LeetCode@23_Merge_k_Sorted_Lists.md) | [Solution](111.LeetCode@23_Merge_k_Sorted_Lists/) |
 | 112 | [Maximum Subarray](112.LeetCode@53_Maximum_Subarray/112.LeetCode@53_Maximum_Subarray.md) | [Solution](112.LeetCode@53_Maximum_Subarray/) |
 
+
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
