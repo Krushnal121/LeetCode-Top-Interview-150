@@ -151,6 +151,8 @@ The repository is structured as follows:
 | 109 | [Sort List](109.LeetCode@148_Sort_List/109.LeetCode@148_Sort_List.md) | [Solution](109.LeetCode@148_Sort_List/) |
 | 110 | [Construct Quad Tree](110.LeetCode@427_Construct_Quad_Tree/110.LeetCode@427_Construct_Quad_Tree.md) | [Solution](110.LeetCode@427_Construct_Quad_Tree/) |
 | 111 | [Merge k Sorted Lists](111.LeetCode@23_Merge_k_Sorted_Lists/111.LeetCode@23_Merge_k_Sorted_Lists.md) | [Solution](111.LeetCode@23_Merge_k_Sorted_Lists/) |
+| 112 | [Maximum Subarray](112.LeetCode@53_Maximum_Subarray/112.LeetCode@53_Maximum_Subarray.md) | [Solution](112.LeetCode@53_Maximum_Subarray/) |
+
 
 
 
