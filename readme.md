@@ -153,6 +153,8 @@ The repository is structured as follows:
 | 111 | [Merge k Sorted Lists](111.LeetCode@23_Merge_k_Sorted_Lists/111.LeetCode@23_Merge_k_Sorted_Lists.md) | [Solution](111.LeetCode@23_Merge_k_Sorted_Lists/) |
 | 112 | [Maximum Subarray](112.LeetCode@53_Maximum_Subarray/112.LeetCode@53_Maximum_Subarray.md) | [Solution](112.LeetCode@53_Maximum_Subarray/) |
 | 113 | [Maximum Sum Circular Subarray](113.LeetCode@918_Maximum_Sum_Circular_Subarray/113.LeetCode@918_Maximum_Sum_Circular_Subarray.md) | [Solution](113.LeetCode@918_Maximum_Sum_Circular_Subarray/) |
+| 114 | [Search Insert Position](114.LeetCode@35_Search_Insert_Position/114.LeetCode@35_Search_Insert_Position.md) | [Solution](114.LeetCode@35_Search_Insert_Position/) |
+
 
 
 
