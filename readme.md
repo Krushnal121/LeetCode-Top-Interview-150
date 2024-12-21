@@ -155,6 +155,8 @@ The repository is structured as follows:
 | 113 | [Maximum Sum Circular Subarray](113.LeetCode@918_Maximum_Sum_Circular_Subarray/113.LeetCode@918_Maximum_Sum_Circular_Subarray.md) | [Solution](113.LeetCode@918_Maximum_Sum_Circular_Subarray/) |
 | 114 | [Search Insert Position](114.LeetCode@35_Search_Insert_Position/114.LeetCode@35_Search_Insert_Position.md) | [Solution](114.LeetCode@35_Search_Insert_Position/) |
 | 115 | [Search a 2D Matrix](115.LeetCode@74_Search_a_2D_Matrix/115.LeetCode@74_Search_a_2D_Matrix.md) | [Solution](115.LeetCode@74_Search_a_2D_Matrix/) |
+| 116 | [Find Peak Element](116.LeetCode@162_Find_Peak_Element/116.LeetCode@162_Find_Peak_Element.md) | [Solution](116.LeetCode@162_Find_Peak_Element/) |
+
 
 
 
