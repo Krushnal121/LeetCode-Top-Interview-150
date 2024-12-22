@@ -156,6 +156,8 @@ The repository is structured as follows:
 | 114 | [Search Insert Position](114.LeetCode@35_Search_Insert_Position/114.LeetCode@35_Search_Insert_Position.md) | [Solution](114.LeetCode@35_Search_Insert_Position/) |
 | 115 | [Search a 2D Matrix](115.LeetCode@74_Search_a_2D_Matrix/115.LeetCode@74_Search_a_2D_Matrix.md) | [Solution](115.LeetCode@74_Search_a_2D_Matrix/) |
 | 116 | [Find Peak Element](116.LeetCode@162_Find_Peak_Element/116.LeetCode@162_Find_Peak_Element.md) | [Solution](116.LeetCode@162_Find_Peak_Element/) |
+| 117 | [Search in Rotated Sorted Array](117.LeetCode@33_Search_in_Rotated_Sorted_Array/117.LeetCode@33_Search_in_Rotated_Sorted_Array.md) | [Solution](117.LeetCode@33_Search_in_Rotated_Sorted_Array/) |
+
 
 
 
