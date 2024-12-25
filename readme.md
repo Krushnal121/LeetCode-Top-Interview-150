@@ -159,6 +159,8 @@ The repository is structured as follows:
 | 117 | [Search in Rotated Sorted Array](117.LeetCode@33_Search_in_Rotated_Sorted_Array/117.LeetCode@33_Search_in_Rotated_Sorted_Array.md) | [Solution](117.LeetCode@33_Search_in_Rotated_Sorted_Array/) |
 | 118 | [Find First and Last Position of Element in Sorted Array](118.LeetCode@34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/118.LeetCode@34_Find_First_and_Last_Position_of_Element_in_Sorted_Array.md) | [Solution](118.LeetCode@34_Find_First_and_Last_Position_of_Element_in_Sorted_Array/) |
 | 119 | [Find Minimum in Rotated Sorted Array](119.LeetCode@153_Find_Minimum_in_Rotated_Sorted_Array/119.LeetCode@153_Find_Minimum_in_Rotated_Sorted_Array.md) | [Solution](119.LeetCode@153_Find_Minimum_in_Rotated_Sorted_Array/) |
+| 120 | [Median of Two Sorted Arrays](120.LeetCode@4_Median_of_Two_Sorted_Arrays/120.LeetCode@4_Median_of_Two_Sorted_Arrays.md) | [Solution](120.LeetCode@4_Median_of_Two_Sorted_Arrays/) |
+
 
 
 
