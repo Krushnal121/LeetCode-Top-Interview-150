@@ -162,20 +162,6 @@ The repository is structured as follows:
 | 120 | [Median of Two Sorted Arrays](120.LeetCode@4_Median_of_Two_Sorted_Arrays/120.LeetCode@4_Median_of_Two_Sorted_Arrays.md) | [Solution](120.LeetCode@4_Median_of_Two_Sorted_Arrays/) |
 | 121 | [Kth Largest Element in an Array](121.LeetCode@215_Kth_Largest_Element_in_an_Array/121.LeetCode@215_Kth_Largest_Element_in_an_Array.md) | [Solution](121.LeetCode@215_Kth_Largest_Element_in_an_Array/) |
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
