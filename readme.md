@@ -161,6 +161,8 @@ The repository is structured as follows:
 | 119 | [Find Minimum in Rotated Sorted Array](119.LeetCode@153_Find_Minimum_in_Rotated_Sorted_Array/119.LeetCode@153_Find_Minimum_in_Rotated_Sorted_Array.md) | [Solution](119.LeetCode@153_Find_Minimum_in_Rotated_Sorted_Array/) |
 | 120 | [Median of Two Sorted Arrays](120.LeetCode@4_Median_of_Two_Sorted_Arrays/120.LeetCode@4_Median_of_Two_Sorted_Arrays.md) | [Solution](120.LeetCode@4_Median_of_Two_Sorted_Arrays/) |
 | 121 | [Kth Largest Element in an Array](121.LeetCode@215_Kth_Largest_Element_in_an_Array/121.LeetCode@215_Kth_Largest_Element_in_an_Array.md) | [Solution](121.LeetCode@215_Kth_Largest_Element_in_an_Array/) |
+| 122 | [IPO](122.LeetCode@502_IPO/122.LeetCode@502_IPO.md) | [Solution](122.LeetCode@502_IPO/) |
+
 
 
 ## 🚀 Getting Started
