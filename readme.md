@@ -163,6 +163,8 @@ The repository is structured as follows:
 | 121 | [Kth Largest Element in an Array](121.LeetCode@215_Kth_Largest_Element_in_an_Array/121.LeetCode@215_Kth_Largest_Element_in_an_Array.md) | [Solution](121.LeetCode@215_Kth_Largest_Element_in_an_Array/) |
 | 122 | [IPO](122.LeetCode@502_IPO/122.LeetCode@502_IPO.md) | [Solution](122.LeetCode@502_IPO/) |
 | 123 | [Find K Pairs with Smallest Sums](123.LeetCode@373_Find_K_Pairs_with_Smallest_Sums/123.LeetCode@373_Find_K_Pairs_with_Smallest_Sums.md) | [Solution](123.LeetCode@373_Find_K_Pairs_with_Smallest_Sums/) |
+| 124 | [Find Median from Data Stream](124.LeetCode@295_Find_Median_from_Data_Stream/124.LeetCode@295_Find_Median_from_Data_Stream.md) | [Solution](124.LeetCode@295_Find_Median_from_Data_Stream/) |
+
 
 
 
