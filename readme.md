@@ -166,6 +166,8 @@ The repository is structured as follows:
 | 124 | [Find Median from Data Stream](124.LeetCode@295_Find_Median_from_Data_Stream/124.LeetCode@295_Find_Median_from_Data_Stream.md) | [Solution](124.LeetCode@295_Find_Median_from_Data_Stream/) |
 | 125 | [Add Binary](125.LeetCode@67_Add_Binary/125.LeetCode@67_Add_Binary.md) | [Solution](125.LeetCode@67_Add_Binary/) |
 | 126 | [Reverse Bits](126.LeetCode@190_Reverse_Bits/126.LeetCode@190_Reverse_Bits.md) | [Solution](126.LeetCode@190_Reverse_Bits/) |
+| 127 | [Number of 1 Bits](127.LeetCode@191_Number_of_1_Bits/127.LeetCode@191_Number_of_1_Bits.md) | [Solution](127.LeetCode@191_Number_of_1_Bits/) |
+
 
 
 
