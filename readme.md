@@ -167,6 +167,8 @@ The repository is structured as follows:
 | 125 | [Add Binary](125.LeetCode@67_Add_Binary/125.LeetCode@67_Add_Binary.md) | [Solution](125.LeetCode@67_Add_Binary/) |
 | 126 | [Reverse Bits](126.LeetCode@190_Reverse_Bits/126.LeetCode@190_Reverse_Bits.md) | [Solution](126.LeetCode@190_Reverse_Bits/) |
 | 127 | [Number of 1 Bits](127.LeetCode@191_Number_of_1_Bits/127.LeetCode@191_Number_of_1_Bits.md) | [Solution](127.LeetCode@191_Number_of_1_Bits/) |
+| 128 | [Single Number](128.LeetCode@136_Single_Number/128.LeetCode@136_Single_Number.md) | [Solution](128.LeetCode@136_Single_Number/) |
+
 
 
 
