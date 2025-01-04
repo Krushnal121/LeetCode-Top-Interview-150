@@ -170,18 +170,6 @@ The repository is structured as follows:
 | 128 | [Single Number](128.LeetCode@136_Single_Number/128.LeetCode@136_Single_Number.md) | [Solution](128.LeetCode@136_Single_Number/) |
 | 129 | [Single Number II](129.LeetCode@137_Single_Number_II/129.LeetCode@137_Single_Number_II.md) | [Solution](129.LeetCode@137_Single_Number_II/) |
 
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 Getting Started
 
 To dive into the solutions, navigate to the corresponding day's folder and open the `solution.py` or `solution.java`.
