@@ -169,6 +169,8 @@ The repository is structured as follows:
 | 127 | [Number of 1 Bits](127.LeetCode@191_Number_of_1_Bits/127.LeetCode@191_Number_of_1_Bits.md) | [Solution](127.LeetCode@191_Number_of_1_Bits/) |
 | 128 | [Single Number](128.LeetCode@136_Single_Number/128.LeetCode@136_Single_Number.md) | [Solution](128.LeetCode@136_Single_Number/) |
 | 129 | [Single Number II](129.LeetCode@137_Single_Number_II/129.LeetCode@137_Single_Number_II.md) | [Solution](129.LeetCode@137_Single_Number_II/) |
+| 130 | [Bitwise AND of Numbers Range](130.LeetCode@201_Bitwise_AND_of_Numbers_Range/130.LeetCode@201_Bitwise_AND_of_Numbers_Range.md) | [Solution](130.LeetCode@201_Bitwise_AND_of_Numbers_Range/) |
+
 
 
 ## 🚀 Getting Started
